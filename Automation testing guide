@@ -1,0 +1,12 @@
+#python automation testing
+
+Fresh installation Steps:
+
+1.) Run python script
+2.) Function that will check the agent location and folder related
+3.) Uninstall the agent and remove the related folders
+4.) Once removed all, access the qa dashboard, get the key and and paste to the script
+5.) Function that will wait until the installation is done and monitors also if have had error.
+6.) Once installation ins done, a function will access a specific sample app and run
+7.) Once ranning, a function that will create a multiple request.
+8.) A function that will check the sample apps and apm and traces
